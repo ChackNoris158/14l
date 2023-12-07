@@ -1,0 +1,38 @@
+C:\Users\ip521-18\source\repos\ЛР12\ЛР12\bin\Debug\ЛР12.exe.config
+C:\Users\ip521-18\source\repos\ЛР12\ЛР12\bin\Debug\ЛР12.exe
+C:\Users\ip521-18\source\repos\ЛР12\ЛР12\bin\Debug\ЛР12.pdb
+C:\Users\ip521-18\source\repos\ЛР12\ЛР12\obj\Debug\ЛР12.csprojAssemblyReference.cache
+C:\Users\ip521-18\source\repos\ЛР12\ЛР12\obj\Debug\ЛР12.Form1.resources
+C:\Users\ip521-18\source\repos\ЛР12\ЛР12\obj\Debug\ЛР12.Properties.Resources.resources
+C:\Users\ip521-18\source\repos\ЛР12\ЛР12\obj\Debug\ЛР12.csproj.GenerateResource.cache
+C:\Users\ip521-18\source\repos\ЛР12\ЛР12\obj\Debug\ЛР12.csproj.CoreCompileInputs.cache
+C:\Users\ip521-18\source\repos\ЛР12\ЛР12\obj\Debug\ЛР12.exe
+C:\Users\ip521-18\source\repos\ЛР12\ЛР12\obj\Debug\ЛР12.pdb
+C:\Users\ip521-18\source\repos\ЛР12\ЛР12\obj\Debug\ЛР12.Form2.resources
+C:\Users\ip521-18\source\repos\ЛР12\ЛР12\obj\Debug\ЛР12.Form4.resources
+\\alpha\ip521-11$\Мои документы\БД\13 лаба\ЛР12\ЛР12\bin\Debug\ЛР12.exe.config
+\\alpha\ip521-11$\Мои документы\БД\13 лаба\ЛР12\ЛР12\bin\Debug\ЛР12.exe
+\\alpha\ip521-11$\Мои документы\БД\13 лаба\ЛР12\ЛР12\bin\Debug\ЛР12.pdb
+\\alpha\ip521-11$\Мои документы\БД\13 лаба\ЛР12\ЛР12\obj\Debug\ЛР12.csprojAssemblyReference.cache
+\\alpha\ip521-11$\Мои документы\БД\13 лаба\ЛР12\ЛР12\obj\Debug\ЛР12.Form1.resources
+\\alpha\ip521-11$\Мои документы\БД\13 лаба\ЛР12\ЛР12\obj\Debug\ЛР12.Form2.resources
+\\alpha\ip521-11$\Мои документы\БД\13 лаба\ЛР12\ЛР12\obj\Debug\ЛР12.Form4.resources
+\\alpha\ip521-11$\Мои документы\БД\13 лаба\ЛР12\ЛР12\obj\Debug\ЛР12.Properties.Resources.resources
+\\alpha\ip521-11$\Мои документы\БД\13 лаба\ЛР12\ЛР12\obj\Debug\ЛР12.csproj.GenerateResource.cache
+\\alpha\ip521-11$\Мои документы\БД\13 лаба\ЛР12\ЛР12\obj\Debug\ЛР12.csproj.CoreCompileInputs.cache
+\\alpha\ip521-11$\Мои документы\БД\13 лаба\ЛР12\ЛР12\obj\Debug\ЛР12.exe
+\\alpha\ip521-11$\Мои документы\БД\13 лаба\ЛР12\ЛР12\obj\Debug\ЛР12.pdb
+\\alpha\ip521-11$\Мои документы\БД\13 лаба\ЛР12\ЛР12\obj\Debug\ЛР12.Form3.resources
+\\alpha\ip521-11$\Мои документы\БД\14лаба\ЛР12\obj\Debug\ЛР12.csprojAssemblyReference.cache
+\\alpha\ip521-11$\Мои документы\БД\14лаба\ЛР12\obj\Debug\ЛР12.Form1.resources
+\\alpha\ip521-11$\Мои документы\БД\14лаба\ЛР12\obj\Debug\ЛР12.Form2.resources
+\\alpha\ip521-11$\Мои документы\БД\14лаба\ЛР12\obj\Debug\ЛР12.Form3.resources
+\\alpha\ip521-11$\Мои документы\БД\14лаба\ЛР12\obj\Debug\ЛР12.Form4.resources
+\\alpha\ip521-11$\Мои документы\БД\14лаба\ЛР12\obj\Debug\ЛР12.Properties.Resources.resources
+\\alpha\ip521-11$\Мои документы\БД\14лаба\ЛР12\obj\Debug\ЛР12.csproj.GenerateResource.cache
+\\alpha\ip521-11$\Мои документы\БД\14лаба\ЛР12\obj\Debug\ЛР12.csproj.CoreCompileInputs.cache
+\\alpha\ip521-11$\Мои документы\БД\14лаба\ЛР12\obj\Debug\ЛР12.exe
+\\alpha\ip521-11$\Мои документы\БД\14лаба\ЛР12\obj\Debug\ЛР12.pdb
+\\alpha\ip521-11$\Мои документы\БД\14лаба\ЛР12\bin\Debug\ЛР12.exe.config
+\\alpha\ip521-11$\Мои документы\БД\14лаба\ЛР12\bin\Debug\ЛР12.exe
+\\alpha\ip521-11$\Мои документы\БД\14лаба\ЛР12\bin\Debug\ЛР12.pdb
